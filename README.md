@@ -17,4 +17,4 @@ a small project for exploring flexbox effect.
 
 <!-- end:tech-stack -->
 
-### 🚀 <a href="https://inna-b10.github.io/Flexwebsite/" target="_blank">View demo</a>
+### 🚀 [View demo](https://inna-b10.github.io/Flexwebsite/)
